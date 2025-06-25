@@ -1,0 +1,16 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Any sample PDFs you don't want to commit
+*.pdf
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
